@@ -17,9 +17,15 @@ Clone the Repo or Download the source
    ```
 
 <h1 align="center">
-  Advice Generator In React
+  Photography Portfolio In React
 </h1>
 
 <p align="center">
-    <img src="https://github.com/codekojo/Advice-Generator-React/blob/main/images/Screen%20Shot%202021-05-23%20at%206.57.21%20PM.png?raw=true" alt="IMG" />
+    <img src="https://github.com/codekojo/photography-portfolio/blob/main/images/Screen%20Shot%202021-05-23%20at%207.07.43%20PM.png?raw=true" alt="IMG" />
+</p>
+<p align="center">
+    <img src="https://github.com/codekojo/photography-portfolio/blob/main/images/Screen%20Shot%202021-05-23%20at%207.07.55%20PM.png?raw=true" alt="IMG" />
+</p>
+<p align="center">
+    <img src="https://github.com/codekojo/photography-portfolio/blob/main/images/Screen%20Shot%202021-05-23%20at%207.08.03%20PM.png?raw=true" alt="IMG" />
 </p>
